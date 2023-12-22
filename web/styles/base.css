@@ -8,11 +8,37 @@ body {
 
   width: 100%;
   height: 100vh;
+}
 
+#main {
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+#header { 
+  user-select: none;
+  display: flex;
+  justify-content: center;
+}
+
+#header >  p {
+  color: #7c7c8a75;
+}
+
+#header a {
+  text-decoration: none;
+  transition: color .3s;
+}
+
+#header a:active {
+  color: #996dff;
+}
+
+#header a:hover {
+  color: #996dff;
 }
 
 body,

@@ -20,7 +20,7 @@
   margin-top: -5px;
 }
 
-#app > .placeholder {
+#app > #content {
   color: #7c7c8a;
   user-select: none;
 }
