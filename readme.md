@@ -1,4 +1,4 @@
-# Next Level Week - Inteligência Artifical
+# Next Level Week - Inteligência Artificial
 
 ![Project Logo](./public/preview.png)
 # Resumindo Shorts com Inteligência Artificial 🔊
